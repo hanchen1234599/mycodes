@@ -12,7 +12,7 @@
         <repository>
             <id>ainemo</id>
             <name>Nexus ainemo</name>
-            <url>http://10.170.209.180:8081/nexus/content/groups/public/</url>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -33,7 +33,7 @@
         <pluginRepository>
             <id>nexus-ainemo</id>
             <name>Nexus ainemo</name>
-            <url>http://10.170.209.180:8081/nexus/content/groups/public/</url>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
